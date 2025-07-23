@@ -37,7 +37,3 @@ vim.schedule(function()
   require "mappings"
 end)
 
-vim.schedule(function()
-  vim.cmd("Nvdash")
-end)
-
